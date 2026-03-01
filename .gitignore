@@ -1,5 +1,7 @@
 # envioment
 env.json
+SAM.json
+BANK.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
